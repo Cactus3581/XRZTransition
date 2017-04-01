@@ -18,6 +18,10 @@
     [super viewDidLoad];
     NSInteger bb = 12;
     NSLog(@"%ld",bb);
+    NSLog(@"%ld",bb);
+
+    NSLog(@"%ld",bb);
+
     // Do any additional setup after loading the view, typically from a nib.
 }
 
