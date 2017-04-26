@@ -16,11 +16,18 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    NSInteger bb = 12;
-    NSLog(@"%ld",bb);
-    NSLog(@"%ld",bb);
 
-    NSLog(@"%ld",bb);
+    NSLog(@"otherTest");
+    NSLog(@"otherTest1");
+
+
+
+    
+
+    NSLog(@"xrz");
+    NSLog(@"xrz1");
+
+
 
     // Do any additional setup after loading the view, typically from a nib.
 }
