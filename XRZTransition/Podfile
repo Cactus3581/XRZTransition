@@ -2,5 +2,4 @@ platform :ios, "8.0"
 target 'XRZTransition' do
     pod "AFNetworking"
     pod "SDWebImage"
-    pod "MJExtension"
 end
